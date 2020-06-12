@@ -1,0 +1,103 @@
+.nav {
+  width: 240px;
+}
+
+.nav a {
+  padding: 5px 0;
+  color: white;
+  width: calc(100%);
+  border-bottom: 1px solid #022d50 !important;
+  font-size: 18px;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  padding: 15px 0 0px 16px;
+  display: block;
+}
+
+.nav a:not(.logo-active) {
+  padding: 15px 0 15px 16px;
+}
+
+.nav a:not(.logo-active):hover {
+  text-decoration: none;
+  background-color: #022d50 !important;
+}
+
+.nav .arrow {
+  cursor: pointer;
+  float: right;
+  width: 27px;
+  height: 27px;
+  margin: 15px 5px 15px 0;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+
+.nav .arrow.expand {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.nav > a:nth-of-type(1) {
+  border-bottom: none !important;
+}
+
+.flex-column {
+  height: 100vh;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  margin-left: -240px;
+  background-color: #011627;
+  color: white;
+}
+
+.flex-column.active {
+  margin-left: 0px !important;
+}
+
+.navLogo {
+  height: 40px;
+  padding: 3px 0px;
+}
+
+.menuIcon {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  margin: 7px -40px 15px 15px;
+  fill: #011627;
+}
+
+.nav .accordion .card {
+  background-color: transparent !important;
+  background-clip: border-box !important;
+  border: none !important;
+}
+
+.nav .accordion .card .card-body {
+  padding: 0 0 0 16px;
+}
+
+.card-header {
+  background-color: transparent;
+  border-bottom: none;
+  padding: 0;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  border-bottom: 1px solid #022d50 !important;
+}
+
+.card-header:hover {
+  background-color: #022d50 !important;
+}
+
+.card-header a {
+  display: inline-block;
+  width: calc(100% - 32px);
+  border-bottom: none !important;
+}
+
+.card-header a:hover {
+  background-color: transparent !important;
+}
+/*# sourceMappingURL=style.css.map */
