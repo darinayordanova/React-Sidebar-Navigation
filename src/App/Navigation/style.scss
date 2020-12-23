@@ -1,5 +1,33 @@
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+  border-radius: 7px;
+  display: none;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #283844;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #425665;
+  border-radius: 5px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #677b8a;
+  cursor: pointer;
+}
+
 .nav {
   width: 240px;
+  overflow-y: auto;
+  display: block;
   a {
     padding: 5px 0;
     color: white;
@@ -57,7 +85,7 @@
   width: 25px;
   height: 25px;
   margin: 7px -40px 15px 15px;
-  fill: #011627;
+  fill: #fff;
 }
 
 .nav {
@@ -92,4 +120,3 @@
     }
   }
 }
-
