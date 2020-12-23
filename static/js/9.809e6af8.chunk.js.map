@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Design.js"],"names":["Design"],"mappings":"+HAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/9.809e6af8.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Design() {\r\n    return (\r\n        <h1>Design</h1>\r\n    );\r\n}"],"sourceRoot":""}

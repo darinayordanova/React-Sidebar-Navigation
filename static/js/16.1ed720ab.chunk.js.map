@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/MyWork.js"],"names":["MyWork"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/16.1ed720ab.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function MyWork() {\r\n    return (\r\n        <h1>My Work</h1>\r\n    );\r\n}"],"sourceRoot":""}

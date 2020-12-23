@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Milestones.js"],"names":["Milestones"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/14.c4f0b520.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Milestones() {\r\n    return (\r\n        <h1>Milestones</h1>\r\n    );\r\n}"],"sourceRoot":""}

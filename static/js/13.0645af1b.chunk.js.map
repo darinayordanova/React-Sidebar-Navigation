@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Manage.js"],"names":["Manage"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/13.0645af1b.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Manage() {\r\n    return (\r\n        <h1>Manage</h1>\r\n    );\r\n}"],"sourceRoot":""}

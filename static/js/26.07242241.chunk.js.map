@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Workload.js"],"names":["Workload"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/26.07242241.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Workload() {\r\n    return (\r\n        <h1>Workload</h1>\r\n    );\r\n}"],"sourceRoot":""}

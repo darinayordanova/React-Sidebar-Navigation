@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Project1.js"],"names":["Project1"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/22.3fd8dcef.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Project1() {\r\n    return (\r\n        <h1>Project 1</h1>\r\n    );\r\n}"],"sourceRoot":""}

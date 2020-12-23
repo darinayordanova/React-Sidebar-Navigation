@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Planning.js"],"names":["Planning"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/19.0f04cce8.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Planning() {\r\n    return (\r\n        <h1>Planning</h1>\r\n    );\r\n}"],"sourceRoot":""}

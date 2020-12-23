@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Develop.js"],"names":["Develop"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/10.d5f1551b.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Develop() {\r\n    return (\r\n        <h1>Develop</h1>\r\n    );\r\n}"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Companies.js"],"names":["Companies"],"mappings":"+HAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/7.8efc4290.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Companies() {\r\n    return (\r\n        <h1>Companies</h1>\r\n    );\r\n}"],"sourceRoot":""}

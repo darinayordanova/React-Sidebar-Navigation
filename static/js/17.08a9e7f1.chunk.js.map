@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/People.js"],"names":["People"],"mappings":"gIAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/17.08a9e7f1.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function People() {\r\n    return (\r\n        <h1>People</h1>\r\n    );\r\n}"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this["webpackJsonpsidebar-navigation"]=this["webpackJsonpsidebar-navigation"]||[]).push([[5],{78:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var a=e(0),i=e.n(a);function r(){return i.a.createElement("h1",null,"Categories")}}}]);
+//# sourceMappingURL=5.8a4bef9c.chunk.js.map

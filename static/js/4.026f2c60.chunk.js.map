@@ -1,0 +1,1 @@
+{"version":3,"sources":["App/Container/Components/Calendar.js"],"names":["Calendar"],"mappings":"+HAAA,mEAEe,SAASA,IACpB,OACI","file":"static/js/4.026f2c60.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Calendar() {\r\n    return (\r\n        <h1>Calendar</h1>\r\n    );\r\n}"],"sourceRoot":""}
